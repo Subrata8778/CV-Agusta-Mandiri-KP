@@ -1,0 +1,9 @@
+/* EDIT PAGES: SHOW IMAGE */
+.preview {
+    max-height: 400px;
+}
+
+.preview div #photoPreview {
+    max-height: 100%;
+    width: auto;
+}
